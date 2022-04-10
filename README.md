@@ -1,3 +1,3 @@
 # ycart.github.io
 
-YC
+YC - Yatharth Chauhan
